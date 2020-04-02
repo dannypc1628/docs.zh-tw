@@ -32,7 +32,7 @@ Entity Framework (EF) Core 是常見 Entity Framework 資料存取技術的輕�
 - **DbContext 類別** \
   [https://docs.microsoft.com/dotnet/api/microsoft.entityframeworkcore.dbcontext](xref:Microsoft.EntityFrameworkCore.DbContext)
 
-- **比較 EF 核心& EF6.x** \
+- **比較 EF Core & EF6.x** \
   [https://docs.microsoft.com/ef/efcore-and-ef6/index](/ef/efcore-and-ef6/index)
 
 ## <a name="infrastructure-in-entity-framework-core-from-a-ddd-perspective"></a>DDD 觀點的 Entity Framework Core 基礎結構
